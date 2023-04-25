@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "elave_task_todo", "elave_task_todo\elave_task_todo.csproj", "{8FF0EF91-3D00-4271-BE12-CBD88A672623}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FF0EF91-3D00-4271-BE12-CBD88A672623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF0EF91-3D00-4271-BE12-CBD88A672623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF0EF91-3D00-4271-BE12-CBD88A672623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF0EF91-3D00-4271-BE12-CBD88A672623}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F92424B3-C601-4025-8FE6-1380C09FFA51}
+	EndGlobalSection
+EndGlobal
